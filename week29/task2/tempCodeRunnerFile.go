@@ -1,3 +1,0 @@
-Chan {
-	// 	fmt.Println(square)
-	// }
